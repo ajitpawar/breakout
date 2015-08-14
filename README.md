@@ -8,6 +8,6 @@ Features:
 * Dynamic paddle size
 
 <br>
-[Live Demo]()
+[Live Demo](http://ajitpawar.github.io/breakout/)
 
 <img src="demo.png" width="700px">
